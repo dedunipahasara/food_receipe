@@ -73,6 +73,10 @@ const Home = () => {
           />
         </Box>
       </Box>
+       <About/>
+    <Receipe/>
+    {/* <Reviews/>
+    <Contact/> */}
     </div>
   );
 }
